@@ -4,9 +4,9 @@
 I'm passionate about leveraging data analytics to empower businesses to make data-driven decisions and drive growth. With a strong foundation in tools like **Excel, Power BI, Tableau and SQL**, I aim to combine **technical expertise with business acumen** to deliver impactful solutions. I believe in **constant growth** and continuous learning.  
 
 ## 🔹 About Me  
-- 🎯 **Data analytics enthusiast with practical work experience on real-world project**  
-- 📚 **Successfully completed the Data Analyst Bootcamp by WhiteScholars**  
-- 🎓 **Hold a Bachelor's degree in Computer Science**  
+-  **Data analytics enthusiast with practical work experience on real-world project**  
+-  **Successfully completed the Data Analyst Bootcamp by WhiteScholars**  
+-  **Hold a Bachelor's degree in Computer Science**  
 
 ## 🔹 Tools and Languages  
 - ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
