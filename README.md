@@ -9,9 +9,9 @@ I'm passionate about leveraging data analytics to empower businesses to make dat
 -  **Hold a Bachelor's degree in Computer Science**  
 
 ##  🛠️ Tools  
-   Language: SQL, Python
-   Database:  MySQL
-   Visualization: Tableau, PowerBI
+  -  Language: SQL, Python
+  -  Database:  MySQL
+  -  Visualization: Tableau, PowerBI
    
 ## 📚 Projects
 📌 **[Zepto-Sales & Profits-Analysis](https://github.com/pallibhavaniprasad04-ai/Zepto---Sales-Profits-Analysis--Power-BI)**
