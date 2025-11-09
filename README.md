@@ -17,6 +17,6 @@ I'm passionate about leveraging data analytics to empower businesses to make dat
 📌 **[Zepto-Sales & Profits-Analysis](https://github.com/pallibhavaniprasad04-ai/Zepto---Sales-Profits-Analysis--Power-BI)**
 
 ## 🔹 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/palli-bhavaniprasad)
+[![LinkedIn](www.linkedin.com/in/palli-bhavaniprasad)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallibhavaniprasad04@gmail.com)  
