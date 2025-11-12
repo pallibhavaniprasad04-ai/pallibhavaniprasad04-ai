@@ -18,6 +18,8 @@ I'm passionate about leveraging data analytics to empower businesses to make dat
 
 📌 - **[Pizza Sales Analysis SQL](https://github.com/pallibhavaniprasad04-ai/Pizza-Sales-SQL.git)**
 
+📌 - **[Jensen USA Sales SQL](https://github.com/pallibhavaniprasad04-ai/Jensen---USA----Sales)**
+
 ## 🔹 Let's Connect  
 - [Linkedin](www.linkedin.com/in/palli-bhavaniprasad)
 
