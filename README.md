@@ -14,8 +14,9 @@ I'm passionate about leveraging data analytics to empower businesses to make dat
   -  Visualization: Tableau, PowerBI
    
 ## 📚 Projects
-📌 **[Zepto-Sales & Profits-Analysis](https://github.com/pallibhavaniprasad04-ai/Zepto---Sales-Profits-Analysis--Power-BI)**
-📌 **[Pizza Sales Analysis SQL](https://github.com/pallibhavaniprasad04-ai/Pizza-Sales-SQL.git)**
+📌 - **[Zepto-Sales & Profits-Analysis](https://github.com/pallibhavaniprasad04-ai/Zepto---Sales-Profits-Analysis--Power-BI)**
+
+📌 - **[Pizza Sales Analysis SQL](https://github.com/pallibhavaniprasad04-ai/Pizza-Sales-SQL.git)**
 
 ## 🔹 Let's Connect  
 - [Linkedin](www.linkedin.com/in/palli-bhavaniprasad)
