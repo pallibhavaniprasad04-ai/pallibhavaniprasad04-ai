@@ -20,7 +20,7 @@ I'm passionate about leveraging data analytics to empower businesses to make dat
 
 📌 - **[Jensen USA Sales SQL](https://github.com/pallibhavaniprasad04-ai/Jensen---USA----Sales)**
    
-📌 - **[IBM HR Employee Performance & Attrition Analysis](https://github.com/pallibhavaniprasad04-ai/Case-Study---IBM-HR-Employe-Performance-and-Attrition-Analysis)
+📌 - **[IBM HR Employee Performance & Attrition Analysis](https://github.com/pallibhavaniprasad04-ai/Case-Study---IBM-HR-Employe-Performance-and-Attrition-Analysis)**
 
 ## 🔹 Let's Connect  
 - [Linkedin](www.linkedin.com/in/palli-bhavaniprasad)
